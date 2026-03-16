@@ -97,8 +97,7 @@ Start the server
 
 ## Authors
 
+- [David Adu-Poku](https://www.github.com/adupoku71)
 - [@Asamoah Yeboah Felix](https://www.github.com/gyatashoa)
 
-## 🚀 About Me
 
-My name Asamoah Yeboah Felix, A final year Computer Science student at KNUST
